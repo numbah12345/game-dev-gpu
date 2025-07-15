@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/msys64/home/jakez/game-dev-gpu/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

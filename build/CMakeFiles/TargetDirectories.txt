@@ -1,0 +1,3 @@
+C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir
+C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/edit_cache.dir
+C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/rebuild_cache.dir
