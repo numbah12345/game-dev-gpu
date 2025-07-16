@@ -3,6 +3,13 @@
 
 using namespace::glm;
 
+typedef struct PositionTextureVertex
+{
+    float x, y, z;
+    float u, v;
+} PositionTextureVertex;
+
+
 static const char* base_path = NULL;
 void InitializeAssetLoader()
 {
@@ -90,3 +97,39 @@ SDL_GPUShader* LoadShader(
     return shader;
 }
 
+
+SDL_Surface *LoadImage(const char *image_file_name, int desired_channels)
+{
+    char full_path[256];
+    SDL_Surface *result;
+    SDL_PixelFormat format;
+
+    SDL_snprintf(full_path, sizeof(full_path), "%s../%s", base_path, image_file_name);
+
+    result = SDL_LoadBMP(full_path);
+    if (result == NULL)
+    {
+        SDL_Log("Failed to load BMP: %s", SDL_GetError());
+        return NULL;
+    }
+
+    if (desired_channels == 4)
+    {
+        format = SDL_PIXELFORMAT_ABGR8888;
+    }
+    else
+    {
+        SDL_assert(!"Unexpected desired channels");
+        SDL_DestroySurface(result);
+        return NULL;
+    }
+    if (result->format != format)
+    {
+        SDL_Surface *next = SDL_ConvertSurface(result, format);
+        SDL_DestroySurface(result);
+        result = next;
+    }
+    
+    return result;
+}
+    

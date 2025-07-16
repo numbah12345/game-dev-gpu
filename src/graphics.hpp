@@ -2,6 +2,12 @@
 
 #include <SDL3/SDL.h>
 
+typedef struct PositionTextureVertex
+{
+    float x, y, z;
+    float u, v;
+} PositionTextureVertex;
+
 SDL_GPUShader* LoadShader(
     SDL_GPUDevice* device,
     const char* shaderFilename,
@@ -12,3 +18,5 @@ SDL_GPUShader* LoadShader(
 );
 
 void InitializeAssetLoader();
+
+SDL_Surface *LoadImage(const char *image_file_name, int desired_channels);
