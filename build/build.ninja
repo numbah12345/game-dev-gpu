@@ -141,6 +141,7 @@ build CMakeFiles/VideoGame.dir/external/imgui/backends/imgui_impl_sdlgpu3.cpp.ob
 build VideoGame.exe: CXX_EXECUTABLE_LINKER__VideoGame_Debug CMakeFiles/VideoGame.dir/src/graphics.cpp.obj CMakeFiles/VideoGame.dir/src/main.cpp.obj CMakeFiles/VideoGame.dir/external/imgui/imgui.cpp.obj CMakeFiles/VideoGame.dir/external/imgui/imgui_demo.cpp.obj CMakeFiles/VideoGame.dir/external/imgui/imgui_draw.cpp.obj CMakeFiles/VideoGame.dir/external/imgui/imgui_tables.cpp.obj CMakeFiles/VideoGame.dir/external/imgui/imgui_widgets.cpp.obj CMakeFiles/VideoGame.dir/external/imgui/backends/imgui_impl_sdl3.cpp.obj CMakeFiles/VideoGame.dir/external/imgui/backends/imgui_impl_sdlgpu3.cpp.obj | C$:/msys64/ucrt64/lib/libSDL3.dll.a
   CONFIG = Debug
   FLAGS = -g
+  LINK_FLAGS = -static-libstdc++ -static-libgcc -static
   LINK_LIBRARIES = C:/msys64/ucrt64/lib/libSDL3.dll.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\VideoGame.dir
   POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\msys64\home\jakez\game-dev-gpu\build && "C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/msys64/home/jakez/game-dev-gpu/assets C:/msys64/home/jakez/game-dev-gpu/build/assets"

@@ -50,6 +50,10 @@ target_include_directories(VideoGame PRIVATE
 # Link SDL3 and ImGui
 target_link_libraries(VideoGame PRIVATE SDL3::SDL3)
 
+# Force static linking of libstdc++ and libgcc
+target_link_options(VideoGame PRIVATE -static-libstdc++ -static-libgcc -static)
+
+
 # Preprocessor defines if needed
 target_compile_definitions(VideoGame PRIVATE IMGUI_IMPL_OPENGL_LOADER_GLAD)
 

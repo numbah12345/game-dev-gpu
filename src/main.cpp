@@ -481,9 +481,15 @@ void SDL_AppQuit(void *appstate, SDL_AppResult result)
     ImGui_ImplSDLGPU3_Shutdown();
     ImGui::DestroyContext();
 
-    SDL_ReleaseGPUSampler(gpu_device,samplers);
+    SDL_free(vertex_buffer);
+    SDL_free(index_buffer);
+    SDL_free(texture);
+    SDL_free(upload_command_buffer);
+    SDL_free(window);
+
     SDL_ReleaseGPUGraphicsPipeline(gpu_device, triangle_pipeline); //fix?
     SDL_ReleaseGPUGraphicsPipeline(gpu_device, texture_pipeline);
+    SDL_ReleaseGPUSampler(gpu_device,samplers);
     SDL_ReleaseWindowFromGPUDevice(gpu_device, window);
     SDL_DestroyGPUDevice(gpu_device);
     SDL_DestroyWindow(window);
