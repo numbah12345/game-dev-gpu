@@ -1,5 +1,5 @@
 # ninja log v7
-2	19	7744132948094774	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
+1	18	7744147920709256	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
 43	267	7743635176589315	CMakeFiles/VideoGame.dir/external/imgui/backends/imgui_impl_sdlgpu3.cpp.obj	4b3eee65edab3f2d
 19	385	7743997386690182	CMakeFiles/VideoGame.dir/src/graphics.cpp.obj	4a57a2e7a07acf10
 38	743	7743635176544269	CMakeFiles/VideoGame.dir/external/imgui/backends/imgui_impl_sdl3.cpp.obj	a829e1caeebd791c
@@ -8,20 +8,8 @@
 66	1684	7742866294297893	CMakeFiles/VideoGame.dir/external/imgui/imgui_draw.cpp.obj	5d2faaf19bc2cfba
 71	1807	7742866294347895	CMakeFiles/VideoGame.dir/external/imgui/imgui_widgets.cpp.obj	ef6679763556dafd
 61	2335	7742866294247893	CMakeFiles/VideoGame.dir/external/imgui/imgui.cpp.obj	c4fab7b72882b61
-22	260	7744131031707120	CMakeFiles/VideoGame.dir/src/main.cpp.obj	4a68892b1da995fd
-260	538	7744131034085786	VideoGame.exe	88e1bea23f3215ae
-1	18	7744133060693806	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
-2	24	7744133081298966	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
-1	18	7744135433503118	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
-21	257	7744135433704841	CMakeFiles/VideoGame.dir/src/main.cpp.obj	4a68892b1da995fd
-258	521	7744135436065375	VideoGame.exe	88e1bea23f3215ae
-1	18	7744135700200297	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
-21	255	7744135700391778	CMakeFiles/VideoGame.dir/src/main.cpp.obj	4a68892b1da995fd
-255	510	7744135702733426	VideoGame.exe	88e1bea23f3215ae
-2	19	7744135781457059	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
-1	19	7744136156196482	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
-22	253	7744136156409877	CMakeFiles/VideoGame.dir/src/main.cpp.obj	4a68892b1da995fd
-254	516	7744136158723027	VideoGame.exe	88e1bea23f3215ae
-2	19	7744136278857945	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
-22	257	7744136279069669	CMakeFiles/VideoGame.dir/src/main.cpp.obj	4a68892b1da995fd
-257	513	7744136281419563	VideoGame.exe	88e1bea23f3215ae
+21	259	7744145530771011	CMakeFiles/VideoGame.dir/src/main.cpp.obj	4a68892b1da995fd
+259	515	7744145533146176	VideoGame.exe	88e1bea23f3215ae
+1	17	7744150467259921	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
+21	255	7744150467451519	CMakeFiles/VideoGame.dir/src/main.cpp.obj	4a68892b1da995fd
+255	511	7744150469798712	VideoGame.exe	88e1bea23f3215ae
