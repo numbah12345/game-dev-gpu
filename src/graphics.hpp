@@ -17,6 +17,8 @@ SDL_GPUShader* LoadShader(
     Uint32 storageTextureCount
 );
 
+SDL_GPUShader* ShaderCrossLoadShader(SDL_GPUDevice* gpu_device, const char* shader_filename);
+
 void InitializeAssetLoader();
 
 SDL_Surface *LoadImage(const char *image_file_name, int desired_channels);

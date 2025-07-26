@@ -1,0 +1,14 @@
+TODO:
+Simplify init/render code for gpu stuff
+add controls to uniform buffer
+Create structs to store important info
+Resize texture and triangle with imgui controls
+learn shader programming and how it relates to sdl_gpu
+create shader compiler functions to recompile hlsl files
+create a simple empty 3d scene with x,y,z grid and imgui info
+Implement ECS system into project
+
+
+Gameplay ideas:
+Joystick/Osu Swordsman - control the sword of a swordsman. quick reflexes and rythmic movement
+3D 3rdPov Platform Fighter - smash but with an extra dimension.  

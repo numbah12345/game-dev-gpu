@@ -1,55 +1,61 @@
 [
 {
   "directory": "C:/msys64/home/jakez/game-dev-gpu/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\src\\graphics.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\src\\graphics.cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/include/SDL3_shadercross -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -IC:/msys64/home/jakez/game-dev-gpu/external -IC:/msys64/home/jakez/game-dev-gpu/external/entt/src -IC:/msys64/home/jakez/game-dev-gpu/external/entt/tools -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\src\\camera.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\src\\camera.cpp",
+  "file": "C:/msys64/home/jakez/game-dev-gpu/src/camera.cpp",
+  "output": "C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir/src/camera.cpp.obj"
+},
+{
+  "directory": "C:/msys64/home/jakez/game-dev-gpu/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/include/SDL3_shadercross -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -IC:/msys64/home/jakez/game-dev-gpu/external -IC:/msys64/home/jakez/game-dev-gpu/external/entt/src -IC:/msys64/home/jakez/game-dev-gpu/external/entt/tools -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\src\\graphics.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\src\\graphics.cpp",
   "file": "C:/msys64/home/jakez/game-dev-gpu/src/graphics.cpp",
   "output": "C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir/src/graphics.cpp.obj"
 },
 {
   "directory": "C:/msys64/home/jakez/game-dev-gpu/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\src\\main.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\src\\main.cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/include/SDL3_shadercross -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -IC:/msys64/home/jakez/game-dev-gpu/external -IC:/msys64/home/jakez/game-dev-gpu/external/entt/src -IC:/msys64/home/jakez/game-dev-gpu/external/entt/tools -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\src\\main.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\src\\main.cpp",
   "file": "C:/msys64/home/jakez/game-dev-gpu/src/main.cpp",
   "output": "C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir/src/main.cpp.obj"
 },
 {
   "directory": "C:/msys64/home/jakez/game-dev-gpu/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\imgui.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\imgui.cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/include/SDL3_shadercross -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -IC:/msys64/home/jakez/game-dev-gpu/external -IC:/msys64/home/jakez/game-dev-gpu/external/entt/src -IC:/msys64/home/jakez/game-dev-gpu/external/entt/tools -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\imgui.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\imgui.cpp",
   "file": "C:/msys64/home/jakez/game-dev-gpu/external/imgui/imgui.cpp",
   "output": "C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir/external/imgui/imgui.cpp.obj"
 },
 {
   "directory": "C:/msys64/home/jakez/game-dev-gpu/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\imgui_demo.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\imgui_demo.cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/include/SDL3_shadercross -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -IC:/msys64/home/jakez/game-dev-gpu/external -IC:/msys64/home/jakez/game-dev-gpu/external/entt/src -IC:/msys64/home/jakez/game-dev-gpu/external/entt/tools -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\imgui_demo.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\imgui_demo.cpp",
   "file": "C:/msys64/home/jakez/game-dev-gpu/external/imgui/imgui_demo.cpp",
   "output": "C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir/external/imgui/imgui_demo.cpp.obj"
 },
 {
   "directory": "C:/msys64/home/jakez/game-dev-gpu/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\imgui_draw.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\imgui_draw.cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/include/SDL3_shadercross -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -IC:/msys64/home/jakez/game-dev-gpu/external -IC:/msys64/home/jakez/game-dev-gpu/external/entt/src -IC:/msys64/home/jakez/game-dev-gpu/external/entt/tools -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\imgui_draw.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\imgui_draw.cpp",
   "file": "C:/msys64/home/jakez/game-dev-gpu/external/imgui/imgui_draw.cpp",
   "output": "C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir/external/imgui/imgui_draw.cpp.obj"
 },
 {
   "directory": "C:/msys64/home/jakez/game-dev-gpu/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\imgui_tables.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\imgui_tables.cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/include/SDL3_shadercross -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -IC:/msys64/home/jakez/game-dev-gpu/external -IC:/msys64/home/jakez/game-dev-gpu/external/entt/src -IC:/msys64/home/jakez/game-dev-gpu/external/entt/tools -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\imgui_tables.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\imgui_tables.cpp",
   "file": "C:/msys64/home/jakez/game-dev-gpu/external/imgui/imgui_tables.cpp",
   "output": "C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir/external/imgui/imgui_tables.cpp.obj"
 },
 {
   "directory": "C:/msys64/home/jakez/game-dev-gpu/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\imgui_widgets.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\imgui_widgets.cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/include/SDL3_shadercross -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -IC:/msys64/home/jakez/game-dev-gpu/external -IC:/msys64/home/jakez/game-dev-gpu/external/entt/src -IC:/msys64/home/jakez/game-dev-gpu/external/entt/tools -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\imgui_widgets.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\imgui_widgets.cpp",
   "file": "C:/msys64/home/jakez/game-dev-gpu/external/imgui/imgui_widgets.cpp",
   "output": "C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir/external/imgui/imgui_widgets.cpp.obj"
 },
 {
   "directory": "C:/msys64/home/jakez/game-dev-gpu/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\backends\\imgui_impl_sdl3.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\backends\\imgui_impl_sdl3.cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/include/SDL3_shadercross -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -IC:/msys64/home/jakez/game-dev-gpu/external -IC:/msys64/home/jakez/game-dev-gpu/external/entt/src -IC:/msys64/home/jakez/game-dev-gpu/external/entt/tools -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\backends\\imgui_impl_sdl3.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\backends\\imgui_impl_sdl3.cpp",
   "file": "C:/msys64/home/jakez/game-dev-gpu/external/imgui/backends/imgui_impl_sdl3.cpp",
   "output": "C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir/external/imgui/backends/imgui_impl_sdl3.cpp.obj"
 },
 {
   "directory": "C:/msys64/home/jakez/game-dev-gpu/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\backends\\imgui_impl_sdlgpu3.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\backends\\imgui_impl_sdlgpu3.cpp",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DIMGUI_IMPL_OPENGL_LOADER_GLAD -IC:/msys64/home/jakez/game-dev-gpu/src -IC:/msys64/home/jakez/game-dev-gpu/include -IC:/msys64/home/jakez/game-dev-gpu/include/SDL3_shadercross -IC:/msys64/home/jakez/game-dev-gpu/external/imgui -IC:/msys64/home/jakez/game-dev-gpu/external/imgui/backends -IC:/msys64/home/jakez/game-dev-gpu/external -IC:/msys64/home/jakez/game-dev-gpu/external/entt/src -IC:/msys64/home/jakez/game-dev-gpu/external/entt/tools -g -std=gnu++23 -o CMakeFiles\\VideoGame.dir\\external\\imgui\\backends\\imgui_impl_sdlgpu3.cpp.obj -c C:\\msys64\\home\\jakez\\game-dev-gpu\\external\\imgui\\backends\\imgui_impl_sdlgpu3.cpp",
   "file": "C:/msys64/home/jakez/game-dev-gpu/external/imgui/backends/imgui_impl_sdlgpu3.cpp",
   "output": "C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/VideoGame.dir/external/imgui/backends/imgui_impl_sdlgpu3.cpp.obj"
 }
