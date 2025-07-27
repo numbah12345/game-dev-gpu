@@ -1,16 +1,17 @@
 # ninja log v7
-2	14	7752562617474367	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
+1	13	7752564490752312	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
 56	365	7752412730311904	CMakeFiles/VideoGame.dir/external/imgui/backends/imgui_impl_sdlgpu3.cpp.obj	317ce231846ba8d5
 17	364	7752413260726194	CMakeFiles/VideoGame.dir/src/graphics.cpp.obj	9a9941b559ea5c90
 22	690	7752412729974723	CMakeFiles/VideoGame.dir/src/camera.cpp.obj	8548a25ca789adf3
 53	1328	7752412730281901	CMakeFiles/VideoGame.dir/external/imgui/backends/imgui_impl_sdl3.cpp.obj	72ab5a288bc9d565
 41	1581	7752412730163201	CMakeFiles/VideoGame.dir/external/imgui/imgui_demo.cpp.obj	59fa3b43491d750d
 47	1670	7752412730223202	CMakeFiles/VideoGame.dir/external/imgui/imgui_tables.cpp.obj	3c76f81cb1011086
-17	1175	7752562617624369	CMakeFiles/VideoGame.dir/src/main.cpp.obj	31981eaf0cf99bcb
+26	1219	7752564490992335	CMakeFiles/VideoGame.dir/src/main.cpp.obj	31981eaf0cf99bcb
 44	2248	7752412730193203	CMakeFiles/VideoGame.dir/external/imgui/imgui_draw.cpp.obj	bf1c963304a57794
 49	2361	7752412730241902	CMakeFiles/VideoGame.dir/external/imgui/imgui_widgets.cpp.obj	133eaa875f574aa1
 39	2973	7752412730143207	CMakeFiles/VideoGame.dir/external/imgui/imgui.cpp.obj	39201a324702cb42
-1176	1430	7752562629206558	VideoGame.exe	b4df179a20858a5f
-1	13	7752564490752312	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
-26	1219	7752564490992335	CMakeFiles/VideoGame.dir/src/main.cpp.obj	31981eaf0cf99bcb
 1219	1545	7752564502930446	VideoGame.exe	b4df179a20858a5f
+2	14	7753167470100323	C:/msys64/home/jakez/game-dev-gpu/build/CMakeFiles/cmake.verify_globs	67b941189810680d
+18	369	7753167470259808	CMakeFiles/VideoGame.dir/src/graphics.cpp.obj	9a9941b559ea5c90
+31	1263	7753167470383269	CMakeFiles/VideoGame.dir/src/main.cpp.obj	31981eaf0cf99bcb
+1263	1551	7753167482708916	VideoGame.exe	b4df179a20858a5f
